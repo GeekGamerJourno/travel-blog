@@ -1,0 +1,22 @@
+img {
+  float: left;
+}
+
+body {
+  background-color: #F9F7EA;
+  font-family: 'Lora', serif;
+  width: 60%;
+  bump: 10%;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #7CBCAE;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  color: #7CBCAE;
+  text-align: center;
+}
