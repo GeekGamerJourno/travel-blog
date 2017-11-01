@@ -28,3 +28,8 @@ p {
   float: right;
   background-color: white;
 }
+
+.column {
+  width: 300px;
+  float: left;
+}
