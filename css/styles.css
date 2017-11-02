@@ -1,5 +1,5 @@
 img {
-  float: left;
+
 }
 
 body {
@@ -25,11 +25,27 @@ p {
 
 .sidebar {
   width: 30%;
-  float: right;
+  float: left;
   background-color: white;
 }
 
 .column {
   width: 300px;
   float: left;
+  padding: 4px;
+}
+
+.locations {
+  margin: 12px;
+  border: 2px solid #7CBCAE;
+  padding: 4px;
+  background-color: white;
+}
+
+@media screen and (min-width: 768px) {
+  .column {
+    width: 300px;
+    float: left;
+    padding: 20px;
+  }
 }
