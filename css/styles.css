@@ -1,0 +1,20 @@
+body {
+  background-color: #F9F7EA;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+  color: #7CBCAE;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;
+  color: #7CBCAE;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
