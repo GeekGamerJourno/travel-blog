@@ -19,3 +19,14 @@ p {
     font-family: 'Roboto', sans-serif;
     text-align: center;
 }
+
+.jumbotron {
+  background-color: #white;
+  border: 1px solid #7CBCAE;
+  border-radius: 4px;
+}
+
+.well {
+  background-color: #white;
+  border-color: #7CBCAE;
+}
