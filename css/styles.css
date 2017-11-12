@@ -19,10 +19,3 @@ p {
     font-family: 'Roboto', sans-serif;
     text-align: center;
 }
-
-jumbotron {
-  padding: 2rem 1rem;
-  margin-bottom: 2rem;
-  background-color: #white;
-  border-radius: 0.3rem;
-}
